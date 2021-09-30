@@ -1,0 +1,19 @@
+{
+  "name": "cra-template",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "lvchuntian <lvchuntian@echaintech.cn>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/cra-template.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  }
+}
